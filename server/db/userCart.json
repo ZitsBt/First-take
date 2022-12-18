@@ -1,0 +1,48 @@
+{
+    "amount": 9755,
+    "countGoods": 15,
+    "contents": [
+        {
+            "id_product": 111,
+            "product_name": "Ellery x m'o capsule",
+            "price": 569,
+            "image": "img/card__product__1.png",
+            "quantity": 7
+        },
+        {
+            "id_product": 112,
+            "product_name": "Polos",
+            "price": 799,
+            "image": "img/card__product__2.png",
+            "quantity": 2
+        },
+        {
+            "id_product": 113,
+            "product_name": "Shirts",
+            "price": 379,
+            "image": "img/card__product__3.png",
+            "quantity": 2
+        },
+        {
+            "id_product": 114,
+            "product_name": "T-Shirts",
+            "price": 669,
+            "image": "img/card__product__4.png",
+            "quantity": 1
+        },
+        {
+            "id_product": 115,
+            "product_name": "Jackets & Coats",
+            "price": 889,
+            "image": "img/card__product__5.png",
+            "quantity": 3
+        },
+        {
+            "id_product": 116,
+            "product_name": "Denim",
+            "price": 589,
+            "image": "img/card__product__6.png",
+            "quantity": 4
+        }
+    ]
+}
